@@ -11,4 +11,8 @@ array =  ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 array[0]
 end
 
-def 
+def third_element(array)
+  array =  ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  array[2]
+end
+
